@@ -6,8 +6,6 @@ venv/
 *.pyc
 __pycache__/
 
-# Игнорирование отчетов Allure
-reports/
 
 # Игнорирование настроек IDE
 .idea/
